@@ -12,7 +12,7 @@ For latex-itemizer
 
 ## Demo
 
-![demo](demo.gif)
+![demo](https://raw.githubusercontent.com/horyu/latex-itemizer/master/demo.gif)
 
 ## Installation
 
