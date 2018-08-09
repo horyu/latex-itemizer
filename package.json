@@ -1,0 +1,23 @@
+{
+  "name": "latex-itemizer",
+  "main": "./lib/latex-itemizer",
+  "version": "0.0.0",
+  "description": "For latex-itemizer",
+  "activationCommands": {
+    "atom-text-editor[data-grammar~=\"latex\"]": [
+      "latex-itemizer:newline-item",
+      "latex-itemizer:newline-itemize"
+    ]
+  },
+  "repository": "https://github.com/horyu/latex-itemizer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-dependencies": "latest"
+  },
+  "package-dependencies": {
+    "language-latex": "1.1.1"
+  }
+}
