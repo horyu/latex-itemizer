@@ -1,7 +1,7 @@
 {
   "name": "latex-itemizer",
   "main": "./lib/latex-itemizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "For latex-itemizer",
   "activationCommands": {
     "atom-text-editor[data-grammar~=\"latex\"]": [
