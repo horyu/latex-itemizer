@@ -1,3 +1,4 @@
 '.editor[data-grammar~="latex"]:not([mini])':
   'alt-enter': 'latex-itemizer:newline-item'
   'alt-shift-enter': 'latex-itemizer:newline-itemize'
+  'alt-shift-i': 'latex-itemizer:newline-image'

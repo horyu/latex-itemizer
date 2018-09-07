@@ -6,7 +6,8 @@
   "activationCommands": {
     "atom-text-editor[data-grammar~=\"latex\"]": [
       "latex-itemizer:newline-item",
-      "latex-itemizer:newline-itemize"
+      "latex-itemizer:newline-itemize",
+      "latex-itemizer:newline-image"
     ]
   },
   "repository": "https://github.com/horyu/latex-itemizer",

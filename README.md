@@ -8,6 +8,7 @@ For latex-itemizer
 |--------------------------------|---------------------------|
 | latex-itemizer:newline-item    | ```Alt         + Enter``` |
 | latex-itemizer:newline-itemize | ```Alt + Shift + Enter``` |
+| latex-itemizer:newline-iamge   | ```Alt + Shift + I    ``` |
 
 
 ## Demo
