@@ -25,7 +25,7 @@ module.exports =
     cursor = editor.getLastCursor()
     view = atom.views.getView editor
     editor.transact =>
-      atom.commands.dispatch view, 'editor:newline'
+      atom.commands.dispatch view, 'editor:newline-below'
       editor.insertText('\\begin{itemize}')
       atom.commands.dispatch view, 'editor:newline'
       editor.insertText('\\item ')
