@@ -14,10 +14,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-    "atom-package-dependencies": "latest"
-  },
-  "package-dependencies": {
-    "language-latex": "1.1.1"
-  }
+  "package-deps": [
+    "language-latex"
+  ]
 }

@@ -16,6 +16,8 @@ For latex-itemizer
 
 ## Installation
 
+This package requires `language-latex`.
+
 Install from the Atom Package manager or the command line:
 
-```$ apm install latex-itemizer```
+```$ apm install language-latex latex-itemizer```
